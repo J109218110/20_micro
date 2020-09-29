@@ -50,3 +50,18 @@ As Kayne West said:
 function test () {console.log("look ma`, no spaces");}
 ```
 
+## `Markdown`
+```markdown
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
+   
+![nkust logo](Logo.jpg "高鐵")
+```
+
+|First|Second|Third|
+|:----|:------:|------:|
+｜First｜Second｜Third｜
+
