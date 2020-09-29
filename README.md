@@ -25,3 +25,13 @@ __This text will be bold__
 3. Item 3
    * Item 3a
    * Item 3b
+   
+![nkust logo]("高鐵")
+
+<https://www.thsrc.com.tw/>
+
+[台灣高鐵](https://www.thsrc.com.tw/)
+
+As Kayne West said:
+
+>We're living the future so
