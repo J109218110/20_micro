@@ -26,7 +26,7 @@ __This text will be bold__
    * Item 3a
    * Item 3b
    
-![nkust logo]("高鐵")
+![nkust logo](COMENTA-1.png"高鐵")
 
 <https://www.thsrc.com.tw/>
 
