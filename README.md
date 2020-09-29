@@ -63,5 +63,5 @@ function test () {console.log("look ma`, no spaces");}
 
 |First|Second|Third|
 |:----|:------:|------:|
-｜First｜Second｜Third｜
 
+:+1: :sparkles: :camel: :tada:
