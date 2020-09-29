@@ -34,4 +34,11 @@ __This text will be bold__
 
 As Kayne West said:
 
->We're living the future so
+> We're living the future so
+> the present is our past.
+
+\*Literal asterisks\*
+
+\(Literal asterisks\)
+
+\{Literal asterisks\}
